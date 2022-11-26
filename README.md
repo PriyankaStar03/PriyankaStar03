@@ -1,19 +1,19 @@
 <h1 align="center">Hey coder's ,Priyanka   here<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
 
-<h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
+<h3 align="left">A front end   web developer and data scientist from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PriyankaStar03&label=Profile%20views&color=0e75b6&style=flat" alt="codERSunny" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=PriyankaStar03&label=Profile%20views&color=0e75b6&style=flat" alt="PriyankaStar03" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="codERSunny812" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriyankaStar03&theme=darkhub&margin-w=5&no-bg=True&no-frame=False" alt="PriyankaStar03" /></a> </p>
 
  - 🔭 I’m currently working on a Platform Project *LetsDosomething*
 
-- 🌱 I’m currently learning  and *javascript*
+- 🌱 I’m currently learning  and *machine learning*
 
 - 👨‍💻 All of my projects are available at [github.com/codERSunny812/](github.com/codERSunny812)
 
-- 📫 How to reach me *sengersunny448@gmail.com*
+- 📫 How to reach me *bivashbiswas1965@gmail.com*
  
 - Ask me about *python, html and css*
  <br>
