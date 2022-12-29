@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning  and machine learning
 
-- 👨‍💻 All of my projects are available at [github.com/codERSunny812/](github.com/codERSunny812)
+- 👨‍💻 All of my projects are available at [github.com/PriyankaStar03/](github.com/codERSunny812)
 
 - 📫 How to reach me bivashbiswas1965@gmail.com
  
