@@ -32,7 +32,7 @@
 <!-- support section start from here  -->
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codERSunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codERSunny" /></a><a href="https://ko-fi.com/codersunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codersunny" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/PriyankaStar03"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PriyankaStar03" /></a><a href="https://ko-fi.com/PriyankaStar03"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="PriyankaStar03" /></a></p><br><br>
 
 <!-- support section end here  -->
 
@@ -40,14 +40,14 @@
 <h3 align="left"> Some of my stats 📊:</h3>
 
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codERSunny812&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codERSunny812" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaStar03&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="PriyankaStar03" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&show_icons=true&theme=midnight-purple" alt="codERSunny812" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyankaStar03&show_icons=true&theme=midnight-purple" alt="PriyankaStar03" /></p>
 
-<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codERSunny812&theme=midnight-purple" alt="codERSunny812" /></p>
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaStar03&theme=midnight-purple" alt="PriyankaStar03" /></p>
 
 
-<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=https://github.com/codERSunny812/myportfolio"> </p> 
+<p> &nbsp;&nbsp;&nbsp;<img scr="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaStar03&repo=https://github.com/PriyankaStar03/myportfolio"> </p> 
  
  <hr>
 
@@ -65,7 +65,3 @@
  <br>
  <br>
  <br>
- <p>
-  <i>“Ruby is rubbish! PHP is phpantastic!”</i>
-  <i> – Nikita Popov</i>
- </p>
