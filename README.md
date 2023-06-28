@@ -9,13 +9,13 @@
 
  - 🔭 I’m currently working on a Platform Project LetsDosomething
 
-- 🌱 I’m currently learning  and machine learning
+- 🌱 I’m currently learning machine learning and deep learning for data science
 
-- 👨‍💻 All of my projects are available at [github.com/PriyankaStar03/](github.com/codERSunny812)
+- 👨‍💻 All of my projects are available at [github.com/PriyankaStar03/](github.com/PriyankaStar03)
 
 - 📫 How to reach me bivashbiswas1965@gmail.com
  
-- Ask me about python, html and css
+- Ask me about Python, Machine Learning, NLP, Microsoft Power BI and Deep Learning
  <br>
 <hr>
 <br>
