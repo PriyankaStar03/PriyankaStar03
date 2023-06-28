@@ -15,7 +15,7 @@
 
 - 📫 How to reach me bivashbiswas1965@gmail.com
  
-- Ask me about Python, Machine Learning, NLP, Microsoft Power BI and Deep Learning
+- Ask me about Python, Machine Learning, NLP, Microsoft Power BI, Deep Learning and more about Data Science
  <br>
 <hr>
 <br>
