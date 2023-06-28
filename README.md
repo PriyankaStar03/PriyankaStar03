@@ -1,6 +1,6 @@
 <h1 align="center">Hey coder's ,Priyanka   here<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
 
-<h3 align="left">A front end   web developer and data scientist from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
+<h3 align="left">A Machine Learning Engineer and Data scientist from India and I am a intense learner, Learning new technologies and have intrest in contributions that make my knowledge useful for others.</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PriyankaStar03&label=Profile%20views&color=0e75b6&style=flat" alt="PriyankaStar03" /> </p>
