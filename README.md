@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyanka Biswas</h1>
+<h1 align="center">Hey coder's ,Priyanka   here<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
 
 <h3 align="center">
 Data Analyst • Power BI Developer • SQL • Python • AI Automation
@@ -6,9 +6,17 @@ Data Analyst • Power BI Developer • SQL • Python • AI Automation
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Priyanka311/">LeetCode</a> •
-<a href="https://www.linkedin.com/in/priyanka-55b08b208/">LinkedIn</a> •
-<a href="mailto:bivashbiswas1965@gmail.com">Email</a>
+<a href="[https://leetcode.com/u/Priyanka311/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyanka-55b08b208/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bivashbiswas1965@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
@@ -53,46 +61,19 @@ Data Analyst • Power BI Developer • SQL • Python • AI Automation
 
 # Technical Skills
 
-### Analytics
-`Power BI`
-`DAX`
-`Power Query`
-`Excel`
-`Data Visualization`
+## 💻 Technical Skills
 
-### Database
-`SQL Server`
-`MySQL`
-`SSMS`
+**Analytics:** `Power BI` `DAX` `Power Query` `Excel` `Data Visualization`
 
-### ETL & Data Engineering
-`SSIS`
-`ETL`
-`Tabular Editor`
-`Data Warehouse`
-`REST APIs`
+**Database:** `SQL Server` `MySQL` `SSMS`
 
-### Programming
-`Python`
-`SQL`
-`Pandas`
-`NumPy`
+**ETL & Data Engineering:** `SSIS` `ETL` `Tabular Editor` `Data Warehouse` `REST APIs`
 
-### AI & Automation
-`n8n`
-`FastAPI`
-`Machine Learning`
-`NLP`
+**Programming:** `Python` `SQL` `Pandas` `NumPy`
 
-### Tools
-`Git`
-`GitHub`
-`Postman`
-`Tabular Editor`
-`Airflow`
-`DBT`
-`Cursor AI`
-`Jupyter Notebook`
+**AI & Automation:** `n8n` `FastAPI` `Machine Learning` `NLP`
+
+**Tools:** `Git` `GitHub` `Postman` `Airflow` `DBT` `Cursor AI` `Jupyter Notebook`
 
 ---
 
