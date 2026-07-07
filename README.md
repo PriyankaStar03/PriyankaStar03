@@ -6,7 +6,7 @@ Data Analyst • Power BI Developer • SQL • Python • AI Automation
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="https://leetcode.com/u/Priyanka311/">LeetCode</a> •
 <a href="https://www.linkedin.com/in/priyanka-55b08b208/">LinkedIn</a> •
 <a href="mailto:bivashbiswas1965@gmail.com">Email</a>
 
@@ -20,7 +20,7 @@ Data Analyst • Power BI Developer • SQL • Python • AI Automation
 
 # About Me
 
-Data Analyst with **2+ years of experience** delivering business intelligence solutions, automating data workflows, and building AI-powered analytics using **Power BI, SQL, Python, SSIS, and n8n**. Experienced in developing scalable dashboards, optimizing ETL pipelines, and transforming raw data into actionable business insights. :contentReference[oaicite:1]{index=1}
+**Data Analyst** with **2+ years of experience** building business intelligence solutions, automating data workflows, and developing AI-powered analytics. Currently building **AI agents using n8n** to automate data analysis, generate insights, and provide dynamic responses with charts, tables, and contextual explanations. Proficient in **Power BI, SQL, Python, SSIS, ETL pipelines, and API integrations**, with hands-on experience in designing interactive dashboards, scalable data models, and SQL-based data warehouses. Passionate about transforming complex datasets into actionable insights, optimizing reporting processes, and enabling data-driven decision-making through analytics and automation.
 
 ### Currently
 
@@ -54,7 +54,6 @@ Data Analyst with **2+ years of experience** delivering business intelligence so
 # Technical Skills
 
 ### Analytics
-
 `Power BI`
 `DAX`
 `Power Query`
@@ -62,34 +61,30 @@ Data Analyst with **2+ years of experience** delivering business intelligence so
 `Data Visualization`
 
 ### Database
-
 `SQL Server`
 `MySQL`
 `SSMS`
 
 ### ETL & Data Engineering
-
 `SSIS`
 `ETL`
+`Tabular Editor`
 `Data Warehouse`
 `REST APIs`
 
 ### Programming
-
 `Python`
 `SQL`
 `Pandas`
 `NumPy`
 
 ### AI & Automation
-
 `n8n`
 `FastAPI`
 `Machine Learning`
 `NLP`
 
 ### Tools
-
 `Git`
 `GitHub`
 `Postman`
@@ -160,34 +155,6 @@ Data Analyst with **2+ years of experience** delivering business intelligence so
 🇬🇧 English
 
 🇧🇩 Bengali
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyankaStar03&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaStar03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaStar03&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaStar03&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
