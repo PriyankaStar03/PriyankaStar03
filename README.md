@@ -1,183 +1,175 @@
-<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Biswas</h1>
 
 <h3 align="center">
-Data Analyst | Power BI Developer | SQL Enthusiast | Python
+Data Analyst • Power BI Developer • SQL • Python • AI Automation
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PriyankaStar03&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="https://www.linkedin.com/in/priyanka-55b08b208/">LinkedIn</a> •
+<a href="mailto:bivashbiswas1965@gmail.com">Email</a>
+
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/priyanka-55b08b208/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=PriyankaStar03&label=Profile%20Views&color=7aa2f7&style=flat"/>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
-🎯 Data Analyst with **2+ years of experience** building business intelligence solutions using **Power BI, SQL Server, SSIS, Excel, and Python**.
+Data Analyst with **2+ years of experience** delivering business intelligence solutions, automating data workflows, and building AI-powered analytics using **Power BI, SQL, Python, SSIS, and n8n**. Experienced in developing scalable dashboards, optimizing ETL pipelines, and transforming raw data into actionable business insights. :contentReference[oaicite:1]{index=1}
 
-📊 Passionate about transforming raw data into interactive dashboards, automating reports, and solving business problems through analytics.
+### Currently
 
-- 💼 Currently working as **Data Analyst @ Dataoids Analytics LLP**
-- 📊 Building interactive Power BI dashboards
-- 🗄️ Writing optimized SQL queries & stored procedures
-- ⚙️ Developing ETL pipelines using SSIS
-- 🐍 Using Python for automation and data analysis
-- 📈 Working with Sales, Inventory & Business Analytics
-- 🌱 Learning Data Engineering & Advanced Analytics
-
----
-
-# 🚀 Tech Stack
-
-### 📊 Analytics & BI
-
-<p>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
-
-### 🗄 Database
-
-<p>
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
-### ⚙ ETL & Data Engineering
-
-<p>
-
-<img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ETL-Data%20Engineering-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Warehouse-4479A1?style=for-the-badge"/>
-
-</p>
-
-### 👨‍💻 Programming
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</p>
-
-### 🛠 Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge"/>
-
-</p>
+- 💼 Data Analyst at **Dataoids Analytics LLP**
+- 🤖 Building AI Agents using **n8n**
+- 📊 Designing enterprise Power BI dashboards
+- ⚙️ Developing SQL & ETL pipelines
+- 🐍 Automating reporting using Python
+- 🌱 Exploring Data Engineering & AI Automation
 
 ---
 
-# 🏆 Certifications
+# Experience Highlights
 
-- 🥇 HackerRank SQL (Advanced)
-- 🥈 HackerRank SQL (Intermediate)
-- 🥉 HackerRank SQL (Basic)
-- 📊 Microsoft Power BI
-- 💻 SQL Server
-- 🐍 Python
+✔ Developed interactive **Power BI dashboards** with advanced DAX measures, KPIs and drill-through reports, improving reporting efficiency by **30%**.
 
----
+✔ Automated ETL workflows using **SQL Server, SSIS and Python**, reducing manual reporting effort by **30%**.
 
-# 📂 Featured Projects
+✔ Built scalable **SQL data models** that improved report performance and data consistency across business functions.
 
-### 🥛 Milky Mist Sales Dashboard
+✔ Integrated REST APIs and automated ingestion pipelines for centralized analytics.
 
-✔ Primary & Secondary Sales Analysis
+✔ Developed AI Agents using **n8n** capable of generating charts, insights and contextual business explanations.
 
-✔ Inventory Analytics
+✔ Collaborated with business stakeholders to convert reporting requirements into scalable analytics solutions.
 
-✔ Budget vs Actual
-
-✔ Depot Performance
-
-✔ Business KPI Dashboard
+✔ Implemented automated data validation and governance processes to improve reporting reliability.
 
 ---
 
-### 📊 Sales Performance Dashboard
+# Technical Skills
 
-✔ Power BI
+### Analytics
 
-✔ SQL
+`Power BI`
+`DAX`
+`Power Query`
+`Excel`
+`Data Visualization`
 
-✔ Dynamic DAX Measures
+### Database
 
-✔ Executive Dashboard
+`SQL Server`
+`MySQL`
+`SSMS`
+
+### ETL & Data Engineering
+
+`SSIS`
+`ETL`
+`Data Warehouse`
+`REST APIs`
+
+### Programming
+
+`Python`
+`SQL`
+`Pandas`
+`NumPy`
+
+### AI & Automation
+
+`n8n`
+`FastAPI`
+`Machine Learning`
+`NLP`
+
+### Tools
+
+`Git`
+`GitHub`
+`Postman`
+`Tabular Editor`
+`Airflow`
+`DBT`
+`Cursor AI`
+`Jupyter Notebook`
 
 ---
 
-### 🚗 Automobile Analytics
+# Featured Projects
 
-✔ Dealer Performance
+## 📊 Inventory Analytics Dashboard
 
-✔ Sales Insights
-
-✔ Interactive Reports
-
----
-
-### ⚙ ETL & SQL Automation
-
-✔ SSIS Packages
-
-✔ SQL Server
-
-✔ ETL Pipeline
-
-✔ Data Warehouse
+- Interactive Power BI dashboard
+- Inventory Turnover Analysis
+- Stock Aging Analysis
+- Sales Performance
+- KPI Monitoring
+- Dynamic DAX Measures
 
 ---
 
-# 📈 GitHub Analytics
+## 🤖 AI Data Analyst Agent
+
+**Tech:** n8n • Python • SQL • REST APIs
+
+- Built AI-powered workflows capable of analyzing datasets automatically.
+- Generated contextual explanations, charts and tables.
+- Automated repetitive business reporting tasks.
+
+---
+
+## 🧠 Depression Sentence Detector
+
+**Tech:** Python • NLP • Scikit-learn
+
+- Built an NLP model achieving **85% accuracy**.
+- Applied TF-IDF, lemmatization and multilingual preprocessing.
+- Designed for chatbot and mental health screening applications.
+
+---
+
+## ❤️ Heart Failure Prediction
+
+**Tech:** Python • Machine Learning
+
+- Developed predictive healthcare models using Logistic Regression, Random Forest and KNN.
+- Built preprocessing pipelines for reliable prediction.
+
+---
+
+# Certifications
+
+🏆 HackerRank SQL (Advanced)
+
+🏆 HackerRank SQL (Intermediate)
+
+🏆 HackerRank SQL (Basic)
+
+---
+
+# Languages
+
+🇮🇳 Hindi
+
+🇬🇧 English
+
+🇧🇩 Bengali
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyankaStar03&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyankaStar03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaStar03&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaStar03&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -189,17 +181,7 @@ Data Analyst | Power BI Developer | SQL Enthusiast | Python
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PriyankaStar03&theme=tokyonight&margin-w=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
+# GitHub Activity
 
 <p align="center">
 
@@ -209,28 +191,28 @@ Data Analyst | Power BI Developer | SQL Enthusiast | Python
 
 ---
 
-# 🤝 Connect with Me
+# Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/priyanka-55b08b208/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:bivashbiswas1965@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/PriyankaStar03">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">
+<p align="center">
 
-⭐ Turning Data into Insights, and Insights into Decisions.
+*"Transforming data into meaningful insights through analytics, automation, and AI."*
 
-</h3>
+</p>
